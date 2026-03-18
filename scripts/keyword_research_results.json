@@ -1,0 +1,338 @@
+[
+  {
+    "keyword": "pet sitter",
+    "search_volume": 60500,
+    "cpc": 5.99,
+    "competition": 0.5,
+    "seed": "pet sitter"
+  },
+  {
+    "keyword": "pet sitter near me",
+    "search_volume": 40500,
+    "cpc": 6.52,
+    "competition": 0.53,
+    "seed": "pet sitter"
+  },
+  {
+    "keyword": "time to pet",
+    "search_volume": 18100,
+    "cpc": 1.2,
+    "competition": 0.09,
+    "seed": "pet sitting software"
+  },
+  {
+    "keyword": "pet sitter cat",
+    "search_volume": 14800,
+    "cpc": 5.19,
+    "competition": 0.07,
+    "seed": "pet sitter"
+  },
+  {
+    "keyword": "pet sitter jobs",
+    "search_volume": 12100,
+    "cpc": 1.56,
+    "competition": 0.33,
+    "seed": "pet sitter"
+  },
+  {
+    "keyword": "pet sitter application",
+    "search_volume": 8100,
+    "cpc": 4.65,
+    "competition": 0.22,
+    "seed": "pet sitter"
+  },
+  {
+    "keyword": "pet sitting rates",
+    "search_volume": 3600,
+    "cpc": 1.43,
+    "competition": 0.13,
+    "seed": "pet sitting rates"
+  },
+  {
+    "keyword": "dog walker app",
+    "search_volume": 2900,
+    "cpc": 3.92,
+    "competition": 0.23,
+    "seed": "dog walker app"
+  },
+  {
+    "keyword": "pet sitter rates calculator overnight",
+    "search_volume": 1600,
+    "cpc": 1.82,
+    "competition": 0.14,
+    "seed": "pet sitting rates"
+  },
+  {
+    "keyword": "how much to pay a dog sitter for a week",
+    "search_volume": 1300,
+    "cpc": 1.62,
+    "competition": 0.11,
+    "seed": "pet sitting rates"
+  },
+  {
+    "keyword": "rover dog walker app",
+    "search_volume": 1300,
+    "cpc": 0.75,
+    "competition": 0.01,
+    "seed": "dog walker app"
+  },
+  {
+    "keyword": "dog walking business",
+    "search_volume": 1000,
+    "cpc": 3.84,
+    "competition": 0.2,
+    "seed": "dog walking business"
+  },
+  {
+    "keyword": "pet sitting software",
+    "search_volume": 880,
+    "cpc": 11.9,
+    "competition": 0.07,
+    "seed": "pet sitting software"
+  },
+  {
+    "keyword": "pet sitting rates calculator",
+    "search_volume": 880,
+    "cpc": 1.16,
+    "competition": 0.01,
+    "seed": "pet sitting rates"
+  },
+  {
+    "keyword": "how to become a pet sitter",
+    "search_volume": 720,
+    "cpc": 2.19,
+    "competition": 0.44,
+    "seed": "pet sitter"
+  },
+  {
+    "keyword": "pet sitting business",
+    "search_volume": 590,
+    "cpc": 3.53,
+    "competition": 0.19,
+    "seed": "pet sitting business"
+  },
+  {
+    "keyword": "dog walking business names",
+    "search_volume": 480,
+    "cpc": 0.96,
+    "competition": 0.24,
+    "seed": "dog walking business"
+  },
+  {
+    "keyword": "dog walking software",
+    "search_volume": 390,
+    "cpc": 8.77,
+    "competition": 0.11,
+    "seed": "dog walking software"
+  },
+  {
+    "keyword": "pet sitting business insurance",
+    "search_volume": 390,
+    "cpc": 20.98,
+    "competition": 0.26,
+    "seed": "pet sitting business"
+  },
+  {
+    "keyword": "dog walking app to make money",
+    "search_volume": 390,
+    "cpc": 2.61,
+    "competition": 0.5,
+    "seed": "dog walker app"
+  },
+  {
+    "keyword": "pet sitting business plan",
+    "search_volume": 320,
+    "cpc": 3.81,
+    "competition": 0.05,
+    "seed": "pet sitting business"
+  },
+  {
+    "keyword": "pet sitter job description",
+    "search_volume": 260,
+    "cpc": 5.13,
+    "competition": 0.01,
+    "seed": "pet sitter"
+  },
+  {
+    "keyword": "pet care software",
+    "search_volume": 260,
+    "cpc": 35.73,
+    "competition": 0.29,
+    "seed": "pet care software"
+  },
+  {
+    "keyword": "pet sitter dashboard",
+    "search_volume": 170,
+    "cpc": 2.82,
+    "competition": 0.03,
+    "seed": "pet sitting software"
+  },
+  {
+    "keyword": "dog walking business near me",
+    "search_volume": 170,
+    "cpc": 2.77,
+    "competition": 0.42,
+    "seed": "dog walking business"
+  },
+  {
+    "keyword": "how to become a pet sitter on rover",
+    "search_volume": 170,
+    "cpc": 1.35,
+    "competition": 0.08,
+    "seed": "pet sitter"
+  },
+  {
+    "keyword": "pet sitting legal requirements",
+    "search_volume": 110,
+    "cpc": 2.61,
+    "competition": 0.23,
+    "seed": "pet sitting business"
+  },
+  {
+    "keyword": "best dog walker app",
+    "search_volume": 110,
+    "cpc": 7.29,
+    "competition": 0.61,
+    "seed": "dog walker app"
+  },
+  {
+    "keyword": "pet sitting software free",
+    "search_volume": 90,
+    "cpc": 11.55,
+    "competition": 0.37,
+    "seed": "pet sitting software"
+  },
+  {
+    "keyword": "pet sitting software for small business",
+    "search_volume": 90,
+    "cpc": 11.12,
+    "competition": 0.25,
+    "seed": "pet sitting software"
+  },
+  {
+    "keyword": "best pet sitting software",
+    "search_volume": 90,
+    "cpc": 20,
+    "competition": 0.17,
+    "seed": "pet sitting software"
+  },
+  {
+    "keyword": "pet sitting business near me",
+    "search_volume": 90,
+    "cpc": 0.72,
+    "competition": 0.18,
+    "seed": "pet sitting business"
+  },
+  {
+    "keyword": "average pet sitting rates per day",
+    "search_volume": 90,
+    "cpc": 1.07,
+    "competition": 0.15,
+    "seed": "pet sitting rates"
+  },
+  {
+    "keyword": "pet sitting software with app",
+    "search_volume": 50,
+    "cpc": 15.03,
+    "competition": 0.05,
+    "seed": "pet sitting software"
+  },
+  {
+    "keyword": "curly pet software",
+    "search_volume": 50,
+    "cpc": null,
+    "competition": 0.68,
+    "seed": "pet sitting software"
+  },
+  {
+    "keyword": "dog walking business salary",
+    "search_volume": 40,
+    "cpc": null,
+    "competition": 0.01,
+    "seed": "dog walking business"
+  },
+  {
+    "keyword": "dog walking business ideas",
+    "search_volume": 40,
+    "cpc": 2.03,
+    "competition": 0.37,
+    "seed": "dog walking business"
+  },
+  {
+    "keyword": "pet sitter definition",
+    "search_volume": 40,
+    "cpc": null,
+    "competition": 0,
+    "seed": "pet sitter"
+  },
+  {
+    "keyword": "pet sitting business plan pdf",
+    "search_volume": 30,
+    "cpc": null,
+    "competition": 0.34,
+    "seed": "pet sitting business"
+  },
+  {
+    "keyword": "risks of starting a dog walking business",
+    "search_volume": 30,
+    "cpc": null,
+    "competition": 0.03,
+    "seed": "dog walking business"
+  },
+  {
+    "keyword": "average pet sitting rates overnight",
+    "search_volume": 30,
+    "cpc": 1.35,
+    "competition": 0.14,
+    "seed": "pet sitting rates"
+  },
+  {
+    "keyword": "dog walking apps for 12 year olds",
+    "search_volume": 30,
+    "cpc": 8.34,
+    "competition": 0.16,
+    "seed": "dog walker app"
+  },
+  {
+    "keyword": "dog walking software free",
+    "search_volume": 20,
+    "cpc": null,
+    "competition": 0,
+    "seed": "dog walking software"
+  },
+  {
+    "keyword": "best dog walking software",
+    "search_volume": 20,
+    "cpc": null,
+    "competition": 0.1,
+    "seed": "dog walking software"
+  },
+  {
+    "keyword": "pet sitting business ideas",
+    "search_volume": 20,
+    "cpc": 0.6,
+    "competition": 0.24,
+    "seed": "pet sitting business"
+  },
+  {
+    "keyword": "dog walking business reddit",
+    "search_volume": 20,
+    "cpc": null,
+    "competition": 0.01,
+    "seed": "dog walking business"
+  },
+  {
+    "keyword": "pros and cons of dog walking business",
+    "search_volume": 10,
+    "cpc": null,
+    "competition": 0.02,
+    "seed": "dog walking business"
+  },
+  {
+    "keyword": "goose pet care software",
+    "search_volume": 10,
+    "cpc": 7.84,
+    "competition": 0.79,
+    "seed": "pet care software"
+  }
+]

@@ -125,6 +125,7 @@ Don't just put one CTA at the end. Embedded CTAs get 121% more conversions than 
 - Reference industry research or studies
 - Link to tools or resources mentioned
 - Build credibility with quality sources
+- External links are never from competing products (pet care SaaS)
 
 #### Readability
 - Keep sentences under 25 words average
@@ -333,6 +334,7 @@ Every article must meet these requirements:
 - Primary keyword naturally integrated
 - 3-5 internal links to your site content
 - 2-3 external authoritative links
+- external links are never from competing products (pet care SaaS)
 - Compelling meta title and description
 - Clear introduction and conclusion
 - Actionable, valuable information

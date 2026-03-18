@@ -1,291 +1,267 @@
-# [YOUR COMPANY] Brand Voice & Messaging
+# Scritches Brand Voice & Messaging
 
-<!-- INSTRUCTIONS: This template defines your brand voice, tone, and messaging framework.
-     Fill in all [BRACKETED] sections with your company's specific information.
-     Delete these instruction comments when done.
-     See examples/castos/ for a complete real-world example. -->
+This document defines the **Scritches** brand voice, tone, and messaging framework. Reference this when writing all content to ensure consistency.
 
-This document defines the [YOUR COMPANY] brand voice, tone, and messaging framework. Reference this when writing all content to ensure consistency.
+---
 
 ## Brand Voice Pillars
 
-<!-- INSTRUCTIONS: Define 3-5 voice pillars that capture your brand's personality.
-     Each pillar should include:
-     - What it means (the concept)
-     - How it sounds (the execution)
-     - Example (a sentence in your voice)
-     - Avoid (what NOT to do)
--->
+### 1. Approachable & Human
+- **What it means**: Scritches should feel like a helpful, real person who understands pet care, not a faceless software company.
+- **How it sounds**: Warm, conversational, and friendly. Clear explanations without jargon. Feels like talking shop with someone who has done the work.
+- **Example**: "You already do great work with pets. Scritches just helps the rest of your business keep up."
+- **Avoid**: Corporate language, buzzwords, overly polished marketing speak.
 
-### 1. [VOICE PILLAR NAME]
-- **What it means**: [Explain the core concept of this voice characteristic]
-- **How it sounds**: [Describe how this comes across in writing - tone, style, approach]
-- **Example**: "[Write an example sentence that demonstrates this voice pillar]"
-- **Avoid**: [List what to avoid - opposite tones, styles, or approaches]
+### 2. Practical & Clear
+- **What it means**: Everything we write should reduce confusion and help people take action.
+- **How it sounds**: Direct, structured, and focused on real-world use. Explains what happens and why it matters.
+- **Example**: "When a client books, Scritches automatically creates the booking, sends the confirmation, and tracks payment so nothing falls through the cracks."
+- **Avoid**: Vague promises, abstract benefits, or unexplained features.
 
-### 2. [VOICE PILLAR NAME]
-- **What it means**: [Explain the core concept]
-- **How it sounds**: [Describe the execution]
-- **Example**: "[Example sentence]"
-- **Avoid**: [What to avoid]
+### 3. Respectful of Small Businesses
+- **What it means**: We recognize that most users are solo providers or very small teams doing everything themselves.
+- **How it sounds**: Supportive, validating, and grounded. We never talk down or assume ignorance.
+- **Example**: "If you are running your business between walks, drop-ins, and overnights, your software should save time, not create more work."
+- **Avoid**: Enterprise language, assumptions of large teams, or one-size-fits-all advice.
 
-### 3. [VOICE PILLAR NAME]
-- **What it means**: [Explain the core concept]
-- **How it sounds**: [Describe the execution]
-- **Example**: "[Example sentence]"
-- **Avoid**: [What to avoid]
+### 4. Calmly Confident
+- **What it means**: Scritches knows the space and stands behind its approach without hype.
+- **How it sounds**: Assured, steady, and honest. We explain tradeoffs and limitations openly.
+- **Example**: "Scritches does not try to be everything. It focuses on the tools pet care providers actually use every day."
+- **Avoid**: Overpromising, exaggeration, or aggressive competitive comparisons.
 
-### 4. [VOICE PILLAR NAME] (Optional)
-- **What it means**: [Explain the core concept]
-- **How it sounds**: [Describe the execution]
-- **Example**: "[Example sentence]"
-- **Avoid**: [What to avoid]
-
-### 5. [VOICE PILLAR NAME] (Optional)
-- **What it means**: [Explain the core concept]
-- **How it sounds**: [Describe the execution]
-- **Example**: "[Example sentence]"
-- **Avoid**: [What to avoid]
+---
 
 ## Tone Guidelines
 
-### General Tone: [DESCRIBE YOUR GENERAL TONE]
-[Write a paragraph describing your overall tone. Example: "Imagine you're an experienced [expert in your field] helping a friend succeed. You know what you're talking about, you genuinely want them to succeed, and you explain things clearly without being patronizing."]
+### General Tone
+Helpful, grounded, and encouraging.  
+Imagine an experienced pet sitter who has also built software, explaining things clearly to another provider. You are knowledgeable and confident, but always on the user’s side. You want them to feel capable, not overwhelmed.
 
 ### Tone Variations by Content Type
 
-<!-- INSTRUCTIONS: Define how your tone shifts for different content types.
-     Include example phrases for each type. -->
+**How-To Guides**: Clear, reassuring, step-by-step  
+- "Here is exactly what happens after a client submits the form."
+- "You can always edit this later if your process changes."
+- "If this feels like too much, start with the default."
 
-**How-To Guides**: [Adjectives describing tone for tutorials]
-- "[Example phrase 1]"
-- "[Example phrase 2]"
-- "[Example phrase 3]"
+**Strategy and Advice Content**: Thoughtful, realistic, experience-based  
+- "This works best if you have repeat clients."
+- "Many solo sitters run into this once they hit 20 to 30 clients."
+- "There is no single right answer, but here is how most providers handle it."
 
-**Strategy/Advice Content**: [Adjectives describing tone for strategic content]
-- "[Example phrase 1]"
-- "[Example phrase 2]"
-- "[Example phrase 3]"
+**Industry News and Trends**: Neutral, practical, grounded  
+- "This matters because it affects how clients expect to book."
+- "You do not need to adopt this immediately."
+- "Here is what this means for small pet care businesses."
 
-**Industry News/Trends**: [Adjectives describing tone for news/trends]
-- "[Example phrase 1]"
-- "[Example phrase 2]"
-- "[Example phrase 3]"
+**Product and Feature Content**: Benefit-first, concrete, calm  
+- "Clients can book without creating an account."
+- "You can see everything in one place."
+- "Nothing changes unless you turn it on."
 
-**Product/Feature Content**: [Adjectives describing tone for product content]
-- "[Example phrase 1]"
-- "[Example phrase 2]"
-- "[Example phrase 3]"
+---
 
 ## Messaging Framework
 
 ### Core Brand Messages
 
-<!-- INSTRUCTIONS: Define 3-5 core messages that should be woven throughout your content.
-     Each message should include the concept, key points, and when to use it. -->
-
-#### Message 1: [MESSAGE TITLE]
-- **Concept**: [One sentence describing the core message]
+#### Message 1: Built for Real Pet Care Businesses
+- **Concept**: Scritches is designed around how pet sitters and dog walkers actually work.
 - **Key Points**:
-  - [Supporting point 1]
-  - [Supporting point 2]
-  - [Supporting point 3]
-- **Usage**: When discussing [topics/situations where this message applies]
+  - Built for solo providers and small teams
+  - Supports real workflows like overnights, drop-ins, and repeats
+  - No need to stitch together multiple tools to support your workflow
+  - Avoids unnecessary complexity
+- **Usage**: Positioning Scritches against competitors and explaining product philosophy
 
-#### Message 2: [MESSAGE TITLE]
-- **Concept**: [One sentence describing the core message]
+#### Message 2: Better Experience for Clients and Providers
+- **Concept**: Scritches improves the experience on both sides without adding friction.
 - **Key Points**:
-  - [Supporting point 1]
-  - [Supporting point 2]
-  - [Supporting point 3]
-- **Usage**: When discussing [topics/situations where this message applies]
+  - Clients can book, view information, and pay easily
+  - Providers stay organized and in control
+  - Communication feels professional but personal
+- **Usage**: Booking, portals, report cards, payments, and client experience
 
-#### Message 3: [MESSAGE TITLE]
-- **Concept**: [One sentence describing the core message]
+#### Message 3: Professional Without Being Complicated
+- **Concept**: Scritches helps providers look professional without feeling corporate.
 - **Key Points**:
-  - [Supporting point 1]
-  - [Supporting point 2]
-  - [Supporting point 3]
-- **Usage**: When discussing [topics/situations where this message applies]
+  - Clean, modern client-facing pages
+  - Automation where it helps, flexibility where it matters
+  - Defaults that work out of the box
+- **Usage**: Branding, automation, trust, and first impressions
 
-#### Message 4: [MESSAGE TITLE] (Optional)
-- **Concept**: [One sentence describing the core message]
+#### Message 4: You Stay in Control
+- **Concept**: Providers decide how Scritches fits into their business.
 - **Key Points**:
-  - [Supporting point 1]
-  - [Supporting point 2]
-  - [Supporting point 3]
-- **Usage**: When discussing [topics/situations where this message applies]
+  - Features are optional, not forced
+  - Customizable settings and workflows
+  - Transparent pricing and behavior
+- **Usage**: Settings, pricing tiers, feature scope, and limitations
 
-### Value Propositions
+---
 
-<!-- INSTRUCTIONS: Write specific value propositions for each of your key customer segments.
-     These should be 1-2 sentence statements that capture the core benefit for each audience. -->
+## Value Propositions
 
-**For [TARGET SEGMENT 1]**:
-"[Value proposition for this segment]"
+**For Solo Pet Sitters**  
+"Scritches keeps your bookings, clients, payments, and communication in one place so you can spend less time managing your business and more time caring for pets."
 
-**For [TARGET SEGMENT 2]**:
-"[Value proposition for this segment]"
+**For Dog Walkers**  
+"Scritches makes recurring walks, scheduling, and client communication easy to manage without juggling multiple tools."
 
-**For [TARGET SEGMENT 3]**:
-"[Value proposition for this segment]"
+**For Small Pet Care Teams**  
+"Scritches helps small teams stay coordinated with shared bookings, clear records, and a consistent client experience."
 
-**For [TARGET SEGMENT 4]** (Optional):
-"[Value proposition for this segment]"
+**For Growing Businesses**  
+"Scritches grows with you, adding structure and professionalism without forcing enterprise-level complexity."
 
-**For [TARGET SEGMENT 5]** (Optional):
-"[Value proposition for this segment]"
+---
 
 ## Writing Style Guidelines
 
 ### Sentence Structure
-- **Vary length**: [Your preference - e.g., "Mix short punchy sentences with longer explanatory ones"]
-- **Active voice preferred**: [Example] not [Counter-example]
-- **Average length**: [X-Y words per sentence]
-- **Clarity first**: [Your rule about clarity and readability]
+- Vary length with short, direct sentences and slightly longer explanations
+- Prefer active voice: "Scritches sends the invoice" instead of "The invoice is sent"
+- Average length of 12 to 18 words
+- Clarity comes first. If a sentence feels clever but unclear, rewrite it
 
 ### Paragraph Structure
-- **Length**: [X-Y sentences typically]
-- **One idea per paragraph**: [Your approach to paragraph focus]
-- **Transitions**: [How you handle paragraph transitions]
-- **White space**: [Your approach to visual readability]
+- Typically 2 to 4 sentences
+- One idea per paragraph
+- Use simple transitions like "That means" or "For example"
+- Favor white space and readability
 
 ### Word Choice
-- **[CHARACTERISTIC 1]**: [Describe your word choice style - e.g., "Conversational: Write how you'd speak to a colleague"]
-- **[CHARACTERISTIC 2]**: [e.g., "Specific: '40% improvement' not 'Better performance'"]
-- **[CHARACTERISTIC 3]**: [e.g., "Active verbs: 'Launch', 'Create', 'Grow', 'Build'"]
-- **[WHAT TO AVOID]**: [e.g., "Avoid fluff: Cut 'very', 'really', 'actually' unless needed"]
+- Conversational, natural, and *authentic*
+- Funny and witty, without trying too hard
+- Uses emojis sparingly to feel more human and personable
+- Specific and concrete
+- Plain language over technical jargon
+- Avoid filler words unless they add warmth or clarity
 
 ### Terminology
 
-<!-- INSTRUCTIONS: Define industry-specific terminology preferences.
-     List preferred terms vs. terms to avoid. -->
-
 **Say This** → **Not That**
-- [Preferred term] → [Term to avoid] ([Reason why])
-- [Preferred term] → [Term to avoid] ([Reason why])
-- [Preferred term] → [Term to avoid] ([Reason why])
-- [Preferred term] → [Term to avoid] ([Reason why])
-- [Preferred term] → [Term to avoid] ([Reason why])
+- Clients → Customers (more human)
+- Booking → Appointment (fits pet care better)
+- Pet Parent Portal → Portal (clearer for clients)
+- Provider → Vendor (less transactional)
+- Report Card → Activity Summary (report card is familiar and friendly)
+
+---
 
 ## Content Formatting
 
 ### Headlines
-- **[RULE 1]**: [e.g., "Be specific: 'How to Grow Your Audience in 2025' not 'Growth Tips'"]
-- **[RULE 2]**: [e.g., "Include benefit: Tell reader what they'll gain"]
-- **[RULE 3]**: [e.g., "Use numbers: '7 Ways...' or 'Complete Guide...'"]
-- **[RULE 4]**: [e.g., "Keep concise: 60 characters or less for SEO"]
+- Be specific and concrete
+- Lead with the benefit
+- Use numbers when helpful
+- Keep concise and scannable
 
 ### Subheadings
-- **[RULE 1]**: [Your subheading guidelines]
-- **[RULE 2]**: [Your subheading guidelines]
-- **[RULE 3]**: [Your subheading guidelines]
-- **[RULE 4]**: [Your subheading guidelines]
+- Guide the reader through the content
+- Reflect real questions users ask
+- Avoid vague or clever phrasing
+- Stay action-oriented
 
 ### Lists
-- **[RULE 1]**: [Your list formatting guidelines]
-- **[RULE 2]**: [Your list formatting guidelines]
-- **[RULE 3]**: [Your list formatting guidelines]
-- **[RULE 4]**: [Your list formatting guidelines]
+- Use lists to simplify complex ideas
+- Keep items parallel in structure
+- Avoid overly long lists
+- Put the most important items first
 
-### Calls-to-Action
-- **[RULE 1]**: [Your CTA guidelines]
-- **[RULE 2]**: [Your CTA guidelines]
-- **[RULE 3]**: [Your CTA guidelines]
-- **[RULE 4]**: [Your CTA guidelines]
+### Calls to Action
+- Clear and low pressure
+- Focus on what happens next
+- Avoid urgency tactics
+- Sound like an invitation, not a push
+
+---
 
 ## Voice Examples
 
-<!-- INSTRUCTIONS: Provide examples of your voice in action, showing both good and bad examples. -->
+### Excellent Scritches Voice
 
-### Excellent [YOUR COMPANY] Voice ✅
+"Running a pet care business means juggling a lot at once. Bookings, client details, payments, and communication all compete for your attention. Scritches brings those pieces together in one place, without forcing you into a rigid system. You can start simple, use only what you need, and add more as your business grows. The goal is not to change how you care for pets, but to make the rest of your work feel easier."
 
-"[Write a full paragraph example that demonstrates your brand voice at its best.
+**Why this works**
+- Speaks directly to the audience’s reality
+- Focuses on benefits, not features
+- Uses calm, supportive language
+- Avoids hype and pressure
+- Clearly explains the value
 
-This should include multiple sentences that show your tone, style, word choice, and approach.
+### Not Scritches Voice
 
-Reference your actual product/service and target audience.]"
+"Scritches is a cutting-edge, all-in-one pet care management solution designed to streamline operations and optimize workflows for service providers. Our robust feature set leverages automation and modern technology to deliver unmatched efficiency and scalability across your organization."
 
-**Why this works**:
-- [Reason 1 - what makes this good]
-- [Reason 2]
-- [Reason 3]
-- [Reason 4]
-- [Reason 5]
+**Why this fails**
+- Feels corporate and generic
+- Relies on buzzwords
+- Lacks real-world context
+- Talks about the product, not the user
+- Sounds impersonal and abstract
 
-### Not [YOUR COMPANY] Voice ❌
-
-"[Write a full paragraph example that demonstrates what NOT to do.
-
-This should show common mistakes: wrong tone, corporate speak, feature-focused instead of benefit-focused, etc.
-
-This example shows what to avoid.]"
-
-**Why this fails**:
-- [Reason 1 - what makes this bad]
-- [Reason 2]
-- [Reason 3]
-- [Reason 4]
-- [Reason 5]
+---
 
 ## Audience Understanding
 
 ### Who We Write For
 
-<!-- INSTRUCTIONS: Define your target audience(s) in detail. -->
+**Primary Audience**: Solo pet sitters and dog walkers
+- Self-employed or very small teams
+- Time-constrained and hands-on
+- Care deeply about client trust
+- Not looking for complex software
+- Often juggling admin late at night
 
-**Primary Audience**: [PRIMARY AUDIENCE NAME/DESCRIPTION]
-- [Characteristic 1]
-- [Characteristic 2]
-- [Characteristic 3]
-- [Characteristic 4]
-- [Characteristic 5]
-
-**Secondary Audiences**:
-- **[SEGMENT NAME]**: [Brief description]
-- **[SEGMENT NAME]**: [Brief description]
-- **[SEGMENT NAME]**: [Brief description]
-- **[SEGMENT NAME]**: [Brief description]
+**Secondary Audiences**
+- Small pet care teams (2 to 10 staff)
+- In-home boarders
+- Cat-only sitters
+- Growing providers planning ahead
 
 ### What They Care About
 
-**Top Priorities**:
-1. [Priority 1]
-2. [Priority 2]
-3. [Priority 3]
-4. [Priority 4]
-5. [Priority 5]
+**Top Priorities**
+1. Reliability
+2. Saving time
+3. Professional appearance
+4. Clear communication
+5. Getting paid easily
 
-**Pain Points**:
-1. [Pain point 1]
-2. [Pain point 2]
-3. [Pain point 3]
-4. [Pain point 4]
-5. [Pain point 5]
+**Pain Points**
+1. Disorganized bookings
+2. Manual follow-ups
+3. Payment tracking
+4. Client confusion
+5. Software that feels bloated
 
 ### How to Serve Them
+- Respect their time and get to the point
+- Make everything actionable
+- Explain the why behind decisions
+- Acknowledge real challenges
+- Encourage steady progress
 
-- **[PRINCIPLE 1]**: [How you serve your audience - e.g., "Respect their time: Get to the point quickly"]
-- **[PRINCIPLE 2]**: [e.g., "Make it actionable: Give specific, implementable advice"]
-- **[PRINCIPLE 3]**: [e.g., "Explain the 'why': Help them understand strategy, not just tactics"]
-- **[PRINCIPLE 4]**: [e.g., "Acknowledge challenges: Show we understand their work"]
-- **[PRINCIPLE 5]**: [e.g., "Celebrate progress: Encourage incremental improvement"]
+---
 
 ## Quality Checklist
 
 Before publishing any content, verify:
 
-- [ ] **Voice**: Sounds like [YOUR COMPANY] ([your key voice characteristics])
-- [ ] **Tone**: Appropriate for content type and audience stage
-- [ ] **Value**: Provides genuine, actionable insights for [YOUR AUDIENCE]
-- [ ] **Clarity**: Complex concepts explained simply
-- [ ] **Accuracy**: Technical information is correct
-- [ ] **Examples**: Includes relevant [industry/use case] scenarios
-- [ ] **Action**: Clear next steps or takeaways
-- [ ] **Messaging**: Aligns with core brand messages
-- [ ] **Terminology**: Uses correct [industry] terms
-- [ ] **Empowerment**: Helps [audience] feel capable and confident
+- [ ] Voice sounds like Scritches (approachable, clear, practical)
+- [ ] Tone matches the content type
+- [ ] Provides real value to pet care providers
+- [ ] Easy to understand on the first read
+- [ ] Technically accurate
+- [ ] Uses real pet care scenarios
+- [ ] Includes clear next steps
+- [ ] Reinforces core brand messages
+- [ ] Uses correct pet care terminology
+- [ ] Helps readers feel capable and confident
 
 ---
 
-**Remember**: [Write a memorable closing statement that captures the essence of your brand voice and mission. Example: "Every piece of content should make our audience feel more capable and confident. We're not just providing information—we're empowering success."]
+**Remember**  
+Every piece of content should make pet care providers feel supported and confident. Scritches exists to make their work easier, clearer, and more professional without getting in the way.

@@ -1,0 +1,92 @@
+{
+  "pet sitting software": {
+    "search_volume": 880,
+    "cpc": 11.9,
+    "competition": "LOW",
+    "competition_level": null
+  },
+  "dog walking software": {
+    "search_volume": 390,
+    "cpc": 8.77,
+    "competition": "LOW",
+    "competition_level": null
+  },
+  "best pet sitting software": {
+    "search_volume": 90,
+    "cpc": 20,
+    "competition": "LOW",
+    "competition_level": null
+  },
+  "pet care business software": {
+    "search_volume": 390,
+    "cpc": 14.14,
+    "competition": "LOW",
+    "competition_level": null
+  },
+  "how to start a pet sitting business": {
+    "search_volume": 480,
+    "cpc": 3.76,
+    "competition": "MEDIUM",
+    "competition_level": null
+  },
+  "pet sitting rates": {
+    "search_volume": 3600,
+    "cpc": 1.43,
+    "competition": "LOW",
+    "competition_level": null
+  },
+  "dog walking rates": {
+    "search_volume": 3600,
+    "cpc": 2.4,
+    "competition": "LOW",
+    "competition_level": null
+  },
+  "pet sitting contract": {
+    "search_volume": 480,
+    "cpc": 2.02,
+    "competition": "HIGH",
+    "competition_level": null
+  },
+  "pet sitting forms": {
+    "search_volume": 170,
+    "cpc": 1.17,
+    "competition": "HIGH",
+    "competition_level": null
+  },
+  "overnight pet sitting rates": {
+    "search_volume": 720,
+    "cpc": 2.53,
+    "competition": "MEDIUM",
+    "competition_level": null
+  },
+  "time to pet alternatives": {
+    "search_volume": null,
+    "cpc": null,
+    "competition": null,
+    "competition_level": null
+  },
+  "pet sitter plus alternatives": {
+    "search_volume": null,
+    "cpc": null,
+    "competition": null,
+    "competition_level": null
+  },
+  "how much do pet sitters charge": {
+    "search_volume": 880,
+    "cpc": 1.98,
+    "competition": "LOW",
+    "competition_level": null
+  },
+  "pet sitting insurance": {
+    "search_volume": 2400,
+    "cpc": 7.41,
+    "competition": "MEDIUM",
+    "competition_level": null
+  },
+  "pet sitting app": {
+    "search_volume": 8100,
+    "cpc": 4.65,
+    "competition": "LOW",
+    "competition_level": null
+  }
+}

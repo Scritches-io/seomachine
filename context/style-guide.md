@@ -223,9 +223,12 @@ Fill in this template with Castos-specific style preferences. Update as the styl
 
 ### Meta Titles
 - 50-60 characters including spaces
-- Include primary keyword
-- Include "| Castos" if space allows
-- No ending punctuation
+- Include primary keyword, front-loaded when possible
+- Lead with a specific detail (cost, number, data point) rather than generic formats
+- Avoid "Complete Guide," "Ultimate Guide," "Everything You Need to Know," and other overused templates
+- Pair the keyword with a concrete hook that differentiates from competitors
+- Parentheses are fine for adding a proof point: "Topic (Under $1K in 2026)"
+- No ending punctuation unless using parenthetical
 
 ### Meta Descriptions
 - 150-160 characters including spaces
@@ -357,6 +360,8 @@ Fill in this template with Castos-specific style preferences. Update as the styl
 3. Podcast creator advocate
 4. Technically accurate but accessible
 5. Results and growth-focused
+6. Witty & funny, but doesn't try too hard
+7. Authentic, tries to speak in a way that is unique to themselves, and not bland
 
 ### Tone Variations
 - **How-to content**: Instructive, step-by-step, encouraging

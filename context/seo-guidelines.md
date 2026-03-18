@@ -136,23 +136,41 @@ Primary keyword MUST appear in:
 
 ### Meta Title
 **Requirements**:
-- **Length**: 50-60 characters (including "| Castos" if used)
-- **Primary keyword**: Must be included
-- **Compelling**: Should encourage clicks from SERP
-- **Unique**: Different from all other Castos page titles
+- **Length**: 50-60 characters
+- **Primary keyword**: Must be included, front-loaded when possible
+- **Compelling**: Should encourage clicks from SERP with a specific, curiosity-driving angle
+- **Unique**: Different from all other page titles
 - **Accurate**: Must match page content
 
-**Format Options**:
-- `[Primary Keyword]: [Benefit/Promise]`
-- `How to [Goal] | [Qualifier]`
-- `[Number] Ways to [Achieve Benefit]`
-- `[Topic] Guide for [Audience] | Castos`
+**Creative Title Principles**:
+- **Lead with a specific detail, not a generic format.** Titles that include a concrete number, cost, timeframe, or unexpected claim outperform generic "Complete Guide" or "Ultimate Guide" templates.
+- **Avoid overused formats.** These are so common they blend into SERPs and get ignored:
+  - ❌ "Complete Guide (2026)"
+  - ❌ "Ultimate Guide"
+  - ❌ "Everything You Need to Know"
+  - ❌ "Definitive Guide"
+  - ❌ "[Topic]: A Comprehensive Guide"
+- **Use specificity to stand out.** The more specific and concrete your title, the more it stands out in a SERP full of generic guides.
+- **Pair the keyword with a hook.** The keyword gets you ranked; the hook gets you clicked.
 
-**Examples**:
-- ✅ "How to Start a Podcast in 2025: Complete Guide"
-- ✅ "12 Proven Podcast Growth Strategies | Castos"
-- ❌ "Podcast Tips and Tricks" (too vague, no keyword)
-- ❌ "The Ultimate Comprehensive Guide to Everything About Starting Your First Podcast Successfully" (too long)
+**Format Options (ranked by effectiveness)**:
+- `[Primary Keyword] ([Specific Proof Point])` -- strongest for CTR
+- `[Primary Keyword]: [Specific Benefit or Cost]`
+- `[Number] + [Primary Keyword] + [Unexpected Detail]`
+- `[Primary Keyword] + [Timeframe or Threshold]`
+
+**Good Examples**:
+- ✅ "How to Start a Pet Sitting Business (Under $1K in 2026)" -- specific cost hook
+- ✅ "Pet Sitting Rates: What to Charge in Every State (2026)" -- specificity + scope
+- ✅ "Pet Sitting Contract: Free Template + What to Include" -- tangible deliverable
+- ✅ "Dog Walking Software: 7 Options Ranked by Real Users" -- social proof angle
+- ✅ "Overnight Pet Sitting Rates: $50-90/Night Breakdown" -- data in the title
+
+**Bad Examples**:
+- ❌ "Pet Sitting Tips and Tricks" (too vague, no keyword depth)
+- ❌ "How to Start a Pet Sitting Business: Complete Guide" (generic, blends in)
+- ❌ "The Ultimate Guide to Starting Your Pet Sitting Business Successfully" (too long, overused format)
+- ❌ "Pet Sitting Business Plan: Everything You Need to Know" (says nothing specific)
 
 ### Meta Description
 **Requirements**:
@@ -169,9 +187,10 @@ Primary keyword MUST appear in:
 ```
 
 **Examples**:
-- ✅ "Learn how to start a podcast with our step-by-step guide. Everything from equipment to launch strategy. Perfect for beginners. Start your show today." (159 chars)
-- ✅ "Discover 12 proven podcast growth strategies that top creators use. Increase downloads, engagement, and audience loyalty. Actionable tips inside." (155 chars)
-- ❌ "This is a blog post about podcasting where we discuss many podcast-related topics." (vague, no value prop, no CTA)
+- ✅ "Pet sitting businesses can earn $54K+/year with startup costs under $1,000. Learn exactly how to start one with this 10-step guide." (132 chars) -- leads with data
+- ✅ "Not sure what to charge for pet sitting? See 2026 rate data by service type, region, and experience level. Includes a free pricing template." (155 chars) -- specific + deliverable
+- ❌ "This is a blog post about pet sitting where we discuss many pet sitting topics." (vague, no value prop, no CTA)
+- ❌ "Learn everything you need to know about starting a pet sitting business in our comprehensive guide." (generic, no specificity)
 
 ### URL Slug
 **Requirements**:
